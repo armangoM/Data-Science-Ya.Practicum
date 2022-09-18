@@ -11,13 +11,6 @@
 | 7  | [Прогнозирование заказов такси](https://github.com/armangoM/Data-Science-Ya.Practicum/tree/main/7.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8)  | Интернет-сервисы  |  Разработка системы предсказания объемов заказов | Временные ряды, регрессия, предсказания, pandas, matplotlib, numpy, seaborn, time, sklearn, statsmodels, catboost  |
 | 8  | [Распознавание токсичных комментариев](https://github.com/armangoM/Data-Science-Ya.Practicum/tree/main/8.%20%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2)  | Интернет-сервисы  | Определение токсичности комментариев к описанию товаров| Машинное обучение, NLP, обработка естественного языка, pandas, sklearn, nltk, tf-idf  |
 | 9  | [Определение возраста покупателей по фото](https://github.com/armangoM/Data-Science-Ya.Practicum/tree/main/9.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D1%84%D0%BE%D1%82%D0%BE)  | Оффлайн-магазины  | Распознавание возраста человека по фотографии  |  Обработка изображений, нейронные сети, Python, Keras |
-| 10 |   |   |   |   |
-| 11 |   |   |   |   |
-| 12 |   |   |   |   |
-| 13 |   |   |   |   |
-| 14 |   |   |   |   |
-| 15 |   |   |   |   |
-| 16 |   |   |   |   |
-| 17 |   |   |   |   |
+| 10 | [Выпускной проект. Прогнозирование оттока клиентов мобильного оператора](https://github.com/armangoM/Data-Science-Ya.Practicum/tree/main/10.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8)  | Телеком  |  Прогнозирование оттока клиентов оператора связи |  Анализ данных, исследовательский анализ, подбор гиперпараметров, выбор модели, градиентный бустинг, регрессия, Pandas, matplotlib, seaborn, numpy, sklearn  |
 
 
