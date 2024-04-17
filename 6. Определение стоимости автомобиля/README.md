@@ -14,4 +14,4 @@
 - построить и обучить модель.
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, seaborn, scipy, re, time, sklearn, catboost, lightgbm*
+*pandas, matplotlib, numpy, seaborn, scipy, re, time, sklearn, catboost, lightgbm* 
