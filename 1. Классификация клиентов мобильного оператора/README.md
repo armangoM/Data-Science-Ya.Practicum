@@ -12,4 +12,4 @@
   - проверка модели на адекватность
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, seaborn, scipy, sklearn*
+*pandas, matplotlib, numpy, seaborn, scipy, sklearn* 
