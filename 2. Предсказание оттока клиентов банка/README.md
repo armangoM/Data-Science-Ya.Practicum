@@ -17,4 +17,4 @@
 - выбор лучшей модели на основе метрики F1 и проверка на тестовой выборке.
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, seaborn, scipy, sklearn, re*
+*pandas, matplotlib, numpy, seaborn, scipy, sklearn, re* 
