@@ -11,4 +11,4 @@
 4. Работа моделей проверены на тестовой выборке.
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, seaborn, time, sklearn, statsmodels, catboost*
+*pandas, matplotlib, numpy, seaborn, time, sklearn, statsmodels, catboost* 
