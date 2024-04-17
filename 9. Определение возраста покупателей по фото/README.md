@@ -12,4 +12,4 @@
 - обучить нейронную сеть и рассчитать её качество.
 
 ## Используемые инструменты
-*pandas, matplotlib, numpy, seaborn, keras, PIL*
+*pandas, matplotlib, numpy, seaborn, keras, PIL* 
